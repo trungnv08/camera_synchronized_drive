@@ -1,0 +1,19 @@
+{
+  "name": "camera_synchronized_drive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trungnv08/camera_synchronized_drive.git"
+  },
+  "author": "Trungnv08",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/trungnv08/camera_synchronized_drive/issues"
+  },
+  "homepage": "https://github.com/trungnv08/camera_synchronized_drive#readme"
+}
